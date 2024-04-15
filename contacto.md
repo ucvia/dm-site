@@ -3,23 +3,21 @@ layout: default
 is_contact: true
 ---
 
-* Email: [fernando.cremagarcia@kuleuven.be](mailto:fernando.cremagarcia@kuleuven.be)
+* Email: [wilmeragsgm@gmail.com](mailto:wilmeragsgm@gmail.com)
 
 ---
 
 ## Dirección 
 
-> STADIUS Kasteelpark Arenberg 10 B-3001 
+> Los palos grandes, Chacao
 >
-> Room  B01.54
+> Miranda
 >
-> Leuven
->
-> Belgium
+> Venezuela
 
 ---
 
 ## Social
 
-1. [Linkedin](https://www.linkedin.com/in/fernandocrema/)
-1. [Twitter](https://twitter.com/FernandoCremaG)
+1. [Linkedin](https://www.linkedin.com/in/wilmeragslin/)
+1. [Twitter](https://twitter.com/wilmeragstw)
